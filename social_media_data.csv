@@ -1,0 +1,16 @@
+Post_ID,Content_Type,Likes,Comments,Shares,Time_Posted
+1,Image,120,15,10,Morning
+2,Video,300,40,25,Evening
+3,Reel,500,60,45,Night
+4,Image,200,20,15,Afternoon
+5,Video,350,50,30,Evening
+6,Reel,600,70,50,Night
+7,Image,180,18,12,Morning
+8,Video,400,55,35,Evening
+9,Reel,550,65,48,Night
+10,Image,220,22,17,Afternoon
+11,Video,370,48,28,Evening
+12,Reel,620,75,52,Night
+13,Image,160,14,11,Morning
+14,Video,390,52,33,Evening
+15,Reel,580,68,47,Night
